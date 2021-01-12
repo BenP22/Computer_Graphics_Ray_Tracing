@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gson-2.8">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Data/Computer Graphics/ex3/RT2020_unimplemented/lib/gson-2.8.2" />
+      <root url="file://$PROJECT_DIR$/../../ex3/RT2020_unimplemented/lib/gson-2.8.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
